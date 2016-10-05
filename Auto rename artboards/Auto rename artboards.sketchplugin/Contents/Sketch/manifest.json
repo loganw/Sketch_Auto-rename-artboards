@@ -1,0 +1,21 @@
+{
+  "author" : "Logan Willmott",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "shortcut" : "",
+      "name" : "Rename artboards",
+      "identifier" : "rename artboards"
+    }
+  ],
+  "menu" : {
+    "isRoot": true,
+    "items" : [
+      "rename artboards",
+    ]
+  },
+  "version" : "1.0",
+  "description" : "Auto rename artboards",
+  "authorEmail" : "loganwillmott@gmail.com",
+  "name" : "Rename artboards"
+}
