@@ -17,3 +17,6 @@ Where A,B,C represents the vertical position of the artboard and the number repr
 
 ## Questions? Am I missing something?
 Flick me a message [@__lw](http://twitter.com/__lw) or submit a pull request
+
+## Credit
+Based on [@elihorne's smartboards](https://github.com/elihorne/smartboards)
