@@ -2,9 +2,9 @@
 Renames artboards using the page name & artboard position
 
 Artboards are renamed in this format:
-[Artboard name] – [A,B,C...] [00, 01, 02...]
+[Page name] – [A,B,C... (row) ] [00, 01, 02... (column)]
 
-Where A,B,C represents the vertical position of the artboard and the number represents the horizontal position
+
 
 
 ## Installation
